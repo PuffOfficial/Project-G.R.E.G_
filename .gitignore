@@ -11,5 +11,4 @@ defaultconfigs
 options.txt
 rhino.local.properties
 .vscode
-.crash_reports
-emi.json
+crash-reports
