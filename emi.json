@@ -1,14 +1,14 @@
 {
   "favorites": [],
   "lookup_history": [
-    "item:tconstruct:scorched_drain",
     "item:tconstruct:foundry_controller",
+    "item:tconstruct:smeltery_controller",
+    "item:tconstruct:scorched_drain",
     {
       "type": "fluid",
       "id": "tconstruct:scorched_stone",
       "amount": 1000
     },
-    "item:tconstruct:smeltery_controller",
     "item:minecraft:raw_iron",
     "item:gtceu:osmium_ingot",
     {
