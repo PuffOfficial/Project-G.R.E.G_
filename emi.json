@@ -1,0 +1,44 @@
+{
+  "favorites": [],
+  "lookup_history": [
+    "item:tconstruct:scorched_drain",
+    "item:tconstruct:foundry_controller",
+    {
+      "type": "fluid",
+      "id": "tconstruct:scorched_stone",
+      "amount": 1000
+    },
+    "item:tconstruct:smeltery_controller",
+    "item:minecraft:raw_iron",
+    "item:gtceu:osmium_ingot",
+    {
+      "type": "fluid",
+      "id": "gtceu:osmium",
+      "amount": 144
+    },
+    "item:tconstruct:seared_melter",
+    "item:tconstruct:materials_and_you",
+    "item:minecraft:oak_button",
+    "item:tconstruct:large_plate{Material:\"gm_construct:tungsten_steel\"}",
+    "item:tconstruct:broad_blade{Material:\"gm_construct:blue_steel\"}",
+    "item:tconstruct:hammer_head{Material:\"gm_construct:red_steel\"}",
+    "item:tconstruct:pick_head{Material:\"tconstruct:osmium\"}",
+    {
+      "type": "item",
+      "id": "tconstruct:boots_plating_cast",
+      "chance": 0.0
+    },
+    "item:tconstruct:boots_plating{Material:\"tconstruct:osmium\"}",
+    "item:tconstruct:broad_axe{Damage:0,tic_broken:0b,tic_materials:[\"tconstruct:osmium\",\"tconstruct:osmium\",\"tconstruct:osmium\",\"tconstruct:osmium\"],tic_modifiers:[{level:4,name:\"tconstruct:dense\"},{level:1,name:\"tconstruct:stripping\"}],tic_multipliers:{\"tconstruct:attack_damage\":1.65f,\"tconstruct:durability\":4.25f,\"tconstruct:mining_speed\":0.3f},tic_persistent:{},tic_stats:{\"tconstruct:attack_damage\":11.55f,\"tconstruct:attack_speed\":0.54f,\"tconstruct:durability\":2550.0f,\"tconstruct:harvest_tier\":\"minecraft:iron\",\"tconstruct:mining_speed\":1.2149999f},tic_volatile_data:{abilities:1,upgrades:2}}",
+    "item:gtceu:osmium_single_cable",
+    "item:gtmutils:omnibreaker{Charge:40960000L}"
+  ],
+  "craft_history": [],
+  "recipe_defaults": {
+    "added": [],
+    "tags": {},
+    "resolutions": {},
+    "disabled": []
+  },
+  "hidden_stacks": []
+}
