@@ -10,3 +10,6 @@ defaultconfigs
 .curseclient
 options.txt
 rhino.local.properties
+.vscode
+.crash_reports
+emi.json
